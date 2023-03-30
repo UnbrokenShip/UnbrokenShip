@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaskarn11
-- 👀 I’m interested in webdev and machine learning
-- 🌱 I’m currently learning nodeJS and reactJs...
+- 👀 I’m interested in webdev espacialy in backend
+- 🌱 I’m currently learning DOTNET and C#...
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />[Linkedin](https://linkedin.com/in/bhaskarnar)
